@@ -406,9 +406,9 @@ img {
 .dance-med {
 	font-family: "Source Sans 3", sans-serif;
 	font-optical-sizing: auto;
-	font-weight: 100;
+	font-weight: 600;
 	font-style: normal;
-	font-size: 32px;
+	font-size: 22px;
 	color: #674ea7;
 	margin: 16px;
 	text-align: center;
@@ -482,6 +482,7 @@ body {
 	background-color: #eee;
 	border-radius: 20px;
 	font-size: 16px;
+	margin-top: -30px;
 }
 
 .venue {
@@ -536,9 +537,9 @@ body {
 .heh {
 	font-family: "Source Sans 3", sans-serif;
 	font-optical-sizing: auto;
-	font-weight: 600;
+	font-weight: 400;
 	font-style: normal;
-	font-size: 32px;
+	font-size: 15px;
 	color: #674ea7;
 	margin: 0px;
 }
@@ -551,13 +552,6 @@ body {
 .place {
 	color: #874562;
 	font-weight: 900;
-}
-
-.footer {
-	color: #564861;
-	text-align: center;
-	font-size: 16px;
-	margin: 24px;
 }
 
 .phone {
