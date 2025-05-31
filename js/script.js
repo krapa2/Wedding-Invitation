@@ -1,3 +1,9 @@
+const newCouple = 'Аня & Артём';
+
+const weddingDate = new Date(2025, 07, 19);
+
+const weddingVenue = new Location('Ashirwad Garden, Ranchi');
+
 /**
  * @author Vinit Shahdeo <vinitshahdeo@gmail.com>
  */
